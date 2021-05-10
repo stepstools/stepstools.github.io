@@ -1,15 +1,15 @@
 # Stepstools Electronics Projects
 
-![image](file:///pics/project.jpg)
+![image](./pics/project.jpg)
 
-![image](file:///pics/pcbs.jpg)
+![image](./pics/pcbs.jpg)
 
-![image](file:///pics/interface.jpg)
+![image](./pics/interface.jpg)
 
-![image](file:///pics/shield.jpg)
+![image](./pics/shield.jpg)
 
-![image](file:///pics/mouse.jpg)
+![image](./pics/mouse.jpg)
 
-![image](file:///pics/xinput.jpg)
+![image](./pics/xinput.jpg)
 
-![image](file:///pics/overlay.png)
+![image](./pics/overlay.png)
